@@ -1,0 +1,17 @@
+This project demonstrates a simple bank account management system implemented in C++.
+It defines a BankAccount class that allows users to perform basic banking operations such as depositing and withdrawing funds, as well as checking the account balance and displaying account details.
+Class Definition: Encapsulates account information (account number and balance).
+Deposit Functionality: Allows the user to add money to the account.
+Withdrawal Functionality: Enables the user to withdraw money while ensuring sufficient funds are available.
+Balance Inquiry: Provides a method to check the current balance.
+Account Details Display: Displays account information in a user-friendly format.
+You can modify the initial account number and balance in the main() function to test different scenarios.
+Additionally, you can enhance the program by adding more features, such as user input for deposits and withdrawals or the ability to create multiple bank accounts.This project demonstrates a simple bank account management system implemented in C++.
+It defines a BankAccount class that allows users to perform basic banking operations such as depositing and withdrawing funds, as well as checking the account balance and displaying account details.
+Class Definition: Encapsulates account information (account number and balance).
+Deposit Functionality: Allows the user to add money to the account.
+Withdrawal Functionality: Enables the user to withdraw money while ensuring sufficient funds are available.
+Balance Inquiry: Provides a method to check the current balance.
+Account Details Display: Displays account information in a user-friendly format.
+You can modify the initial account number and balance in the main() function to test different scenarios.
+Additionally, you can enhance the program by adding more features, such as user input for deposits and withdrawals or the ability to create multiple bank accounts.
