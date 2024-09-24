@@ -1,0 +1,12 @@
+C++ program demonstrates the use of various relational operators. It compares two integers, a and b, and outputs the results of the comparisons. The operators include equal to, greater than, less than, and their respective variations.
+
+Features
+Demonstrates the following relational operators:
+Equal to (==)
+Greater than (>)
+Greater than or equal to (>=)
+Less than (<)
+Less than or equal to (<=)
+Not equal to (!=)
+Displays the results of the comparisons clearly.
+program initializes two integers, a (6) and b (4), and evaluates various relational expressions. The results are printed to the console, indicating whether each expression is true or false.
