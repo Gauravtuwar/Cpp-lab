@@ -1,0 +1,7 @@
+This project demonstrates the concept of polymorphism in C++ using class inheritance and virtual functions.
+  It includes a base class Base and a derived class Derived, showcasing how derived classes can override base class methods and how polymorphism allows for dynamic method binding.
+
+Features
+Base Class: Contains a virtual method print() that can be overridden by derived classes.
+Derived Class: Inherits from Base and provides its own implementation of the print() method.
+Dynamic Binding: Demonstrates how a base class pointer can be used to call derived class methods.
