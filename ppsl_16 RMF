@@ -1,0 +1,5 @@
+This C++ program prints the numbers from 1 to 5 using a for loop. It demonstrates basic control structures in C++ and provides a straightforward output to the console.
+
+Features
+Uses a for loop to iterate over a sequence of numbers.
+Outputs each number from 1 to 5, formatted with spaces in between.
