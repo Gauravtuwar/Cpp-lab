@@ -1,0 +1,12 @@
+This project demonstrates the concept of polymorphism in C++ using a simple class hierarchy of animals.
+The base class Animal provides a virtual function speak(), which is overridden by derived classes Dog and Cat to produce specific animal sounds. 
+The use of pointers to the base class allows for dynamic binding at runtime.
+Base class Animal with a virtual speak() method.
+Derived classes Dog and Cat with overridden speak() methods.
+Function makeAnimalSpeak() that calls the speak() method on an Animal pointer.
+Demonstrates polymorphism and dynamic binding in C++.
+Code Structure
+Animal.h: Header file containing the Animal class definition.
+Dog.h: Header file for the Dog class, inheriting from Animal.
+Cat.h: Header file for the Cat class, inheriting from Animal.
+main.cpp: Contains the main() function and demonstrates the functionality.
