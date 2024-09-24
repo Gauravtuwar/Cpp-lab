@@ -1,0 +1,11 @@
+This C++ program demonstrates the creation and usage of a Rectangle class, showcasing both default and parameterized constructors. 
+  It includes methods to calculate the area of the rectangle and display its dimensions.
+
+Features
+Class Structure: Implements a class with private attributes for length and breadth.
+Constructors:
+Default constructor initializes dimensions to zero.
+Parameterized constructor allows setting specific dimensions.
+Methods:
+area(): Calculates and returns the area of the rectangle.
+display(): Outputs the length and breadth of the rectangle.
