@@ -1,0 +1,5 @@
+This C++ program demonstrates the use of a switch statement to handle character input. It evaluates a character variable and outputs a message based on its value.
+The program specifically checks for the characters 'A', 'B', and 'C', with a default case for any other characters.
+Utilizes a switch statement for control flow based on character input.
+Handles multiple cases ('A', 'B', 'C') with specific output messages.
+Provides a default case for characters other than 'A', 'B', or 'C'.
